@@ -76,3 +76,11 @@ input{
     text-decoration: none;
     color: #fff ;
   }
+ @media(max-width:1028px){
+    .your{
+      padding: 1rem 2rem 1rem;
+    }
+    .crush{
+      padding: 1rem 2rem 1rem;
+    }
+  }
