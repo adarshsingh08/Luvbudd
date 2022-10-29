@@ -37,6 +37,9 @@ h4{
     background-color: #efb0c4;
     border-style: none;
 }
+input{
+    text-align: center;
+}
 .container {
     height: 120px;
     position: relative;
